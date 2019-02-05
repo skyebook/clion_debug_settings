@@ -1,0 +1,7 @@
+<application>
+  <component name="CPPToolchains" version="4">
+    <toolchains detectedVersion="5">
+      <toolchain name="Docker Debugger" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" hostId="b0128d6c-f308-41f5-bdd3-78bb91c20ea3" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/bin/gdb" />
+    </toolchains>
+  </component>
+</application>

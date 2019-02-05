@@ -1,0 +1,11 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b0128d6c-f308-41f5-bdd3-78bb91c20ea3" name="Docker Debugger (b0128d6c-f308-41f5-bdd3-78bb91c20ea3)" url="http:///">
+        <fileTransfer host="localhost" port="22223" accessType="SFTP">
+          <option name="port" value="22223" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
